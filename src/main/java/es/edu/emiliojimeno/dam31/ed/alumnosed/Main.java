@@ -17,6 +17,8 @@ public class Main {
   
         Alumno vLozano = new Alumno("vLozano","20/21");
         alumnos.add(vLozano);
+        Alumno rOrtega = new Alumno("rOrtega","20/21");
+        alumnos.add(rOrtega);
         
         
         for(Alumno a : alumnos){
