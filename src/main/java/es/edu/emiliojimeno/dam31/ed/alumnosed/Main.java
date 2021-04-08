@@ -20,6 +20,8 @@ public class Main {
         alumnos.add(rOrtega);
         Alumno fRodriguez = new Alumno("fRodriguez", "20/21");
         alumnos.add(fRodriguez);
+        Alumno oAouad = new Alumno ("oAouad", "20/21");
+        alumnos.add(oAouad);
         
         for(Alumno a : alumnos){
             System.out.println(a);
